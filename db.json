@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Braham",
+      "lastName": "alam",
+      "email": "sing@gmail.com",
+      "dob": "2024-02-05T23:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "berlin",
+      "experience": 12,
+      "package": 300,
+      "id": "79cd"
+    },
+    {
+      "firstName": "Jine",
+      "lastName": "singh",
+      "email": "hj@mail.com",
+      "dob": "2024-02-12T23:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "abcd",
+      "experience": 3,
+      "package": 1200,
+      "id": "010b"
+    },
+    {
+      "firstName": "Har",
+      "lastName": "hj",
+      "email": "hj@gmail.com",
+      "dob": "2024-02-05T23:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Bitsug",
+      "experience": 5,
+      "package": 567,
+      "id": "4137"
+    },
+    {
+      "id": "6a5f",
+      "firstName": "gh",
+      "lastName": "jhkj",
+      "email": "hjh@gmail.com",
+      "dob": "2024-02-20T23:00:00.000Z",
+      "gender": "others",
+      "education": "Post Graduate",
+      "company": "jsgj",
+      "experience": 23,
+      "package": 345
+    },
+    {
+      "id": "b3a1",
+      "firstName": "ab",
+      "lastName": "hh",
+      "email": "hhujh@hjh",
+      "dob": "2024-02-19T23:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "jhj",
+      "experience": 5,
+      "package": 787
+    }
+  ]
+}
